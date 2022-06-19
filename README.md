@@ -29,7 +29,7 @@
 - 🔥​ Minha linguagem favorita é o css concerteza 
 <br>
 - ✍️ Cursando Full-stack developer, Com progresso em  Html,css e alguns frameworks 
-
+<hr>
 
 <div>
 
