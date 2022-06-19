@@ -9,7 +9,7 @@
 </p>
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCChfHCho6Aa_z4xP67EYSWA"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"/></a>
+  <a href="https://www.youtube.com/channel/UCChfHCho6Aa_z4xP67EYSWA" target="_blank"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/mequetrefelol"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
