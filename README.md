@@ -20,7 +20,7 @@
 <hr>
 
 <h3>Sobre-mim</h3>
-- 🌎 Estou morando Campo Bom-RS/Brasil
+- 🌎 Estou morando em Campo Bom-RS/Brasil
 <br>
 - 👨🏻‍💻 No tempo livre costumo jogar um video game e ouvir algumas musicas
 <br>
