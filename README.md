@@ -22,7 +22,7 @@
 <h3>Sobre-mim</h3>
 - 🌎 Estou morando em Campo Bom-RS/Brasil
 <br>
-- 👨🏻‍💻 No tempo livre costumo jogar um video game e ouvir algumas musicas
+- 👨🏻‍💻 No tempo livre costumo jogar video game e ouvir algumas musicas
 <br>
 - 🕗 Atualmente estou trabalhando como expedidor de mercadorias
 <br>
